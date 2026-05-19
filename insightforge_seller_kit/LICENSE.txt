@@ -1,0 +1,20 @@
+InsightForge Engineering Edition - Commercial Source License
+
+Copyright (c) 2026. All rights reserved.
+
+This package is licensed to the buyer as a commercial source-code product.
+
+Allowed:
+- Use the software internally for personal, academic, freelance, or company work.
+- Modify the software for your own use or for one client project.
+- Deploy one self-hosted instance for yourself or one client.
+- Generate reports and outputs for commercial work.
+
+Not allowed:
+- Resell, redistribute, publish, sublicense, or share the source code as a template or competing product.
+- Upload the full source code to public repositories.
+- Sell this exact application as your own source-code product without substantial modification.
+- Remove license and attribution files from redistributed compiled/client deliverables.
+
+No warranty:
+This software is provided as-is. The buyer is responsible for validating outputs before using them for engineering, scientific, legal, financial, safety-critical, or regulatory decisions.
